@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lbHello" type="id">idHello</item>
+    <item name="xu_Ly" type="id">idXuLy</item>
+    <item name="editTextDate" type="id">idTextDate</item>
+    <item name="txtTen" type="id">idTen</item>
+</resources>
